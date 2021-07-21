@@ -1,2 +1,3 @@
 # hello-world
-Get started
+
+Hi my name is David Ortega and this is jackass
